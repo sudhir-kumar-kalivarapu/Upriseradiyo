@@ -1,0 +1,89 @@
+.icon1{
+    height: 32px;
+    width: 32px;
+    left: 0px;
+    top: 2px;
+    border-radius: 0px;
+}
+
+.icon2{
+    padding-top: 29px;
+    padding-bottom: 27px;
+    width: 149px;
+    margin-left: 5px;
+}
+.div-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ .div-2{
+     width: 163.75px;
+    display:flex;
+    justify-content: space-between;
+} 
+.div-3{
+    margin-top: 10px;
+}
+.div-4{
+    display: flex;
+    width: 120px;
+    justify-content: space-between;
+}
+.bob{
+    color: white;
+    margin-top: 12px;
+}
+.ant-layout-header{
+    padding: 0 16px !important;
+}
+.sider1{
+    color: white;
+}
+.ant-menu-submenu-arrow{
+    display: none;
+}
+.ant-menu.ant-menu-dark, .ant-menu-dark .ant-menu-sub, .ant-menu.ant-menu-dark .ant-menu-sub {
+    color: white;
+    background-color: black !important;
+}
+.ant-menu-dark.ant-menu-inline .ant-menu-item, .ant-menu-dark.ant-menu-inline .ant-menu-submenu-title{
+    padding: 0px;
+}
+.ant-menu-dark.ant-menu-inline .ant-menu-item, .ant-menu-dark.ant-menu-inline .ant-menu-submenu-title:hover{
+    color:#D7FD2C;
+}
+.songs{
+    color: white;
+}
+.songs{
+   font-weight: 600;
+   font-style: normal;
+   font-size: 18px;
+   line-height: 24px;
+}
+.uploadbutton{
+    width: 187px !important;
+    height: 40px !important;
+    border: 2px !important;
+    background:#906DD5 !important;
+    color: white !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    text-align: center !important;
+}
+.content1{
+    display: flex;
+    margin-top: 24px;
+    margin-left: 21px;
+    margin-right: 21px;
+    justify-content: space-between;
+}
+.ant-pagination .ant-table-pagination-right{
+    display: none !important;
+}
+.ant-table-pagination {
+    display: none !important;
+}

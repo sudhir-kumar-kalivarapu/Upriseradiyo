@@ -1,0 +1,25 @@
+.ant-spin-container{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+.ant-table-tbody{
+    background: #202020;
+    padding: 13px 16px !important;
+}
+.ant-table-cell{
+    color:white !important;
+    background: #202020 !important;
+    text-align: center !important;
+    
+
+}
+.ant-table-row:hover{
+    background: #202020 !important;
+}
+.ant-table-tbody > tr >td{
+    padding: 13px 16px !important;
+}
+.ant-table{
+    border-radius: 10px !important;
+}
